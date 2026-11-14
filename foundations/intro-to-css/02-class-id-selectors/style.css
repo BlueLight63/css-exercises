@@ -1,25 +1,21 @@
-.exclam,
-.exclam_cool{
+.odd{
     background-color: rgb(200, 146, 155);
     font-family:"Verdana", "DejaVu Sans", sans-serif;
   
 }
-.exclam_cool{
-    font-size:36px;
-    
+.font_size{
+    font-size:24px;
+
 }
 
 #large{
-    color: blue;
-    font-size: 24px;
+    color: rgb(0, 0, 255);
+    font-size: 36px;
 
 }
 
-
-
 #strong{
-    background-color: lightgreen;
-    font-size: 24px;
+    background-color: rgb(144, 238, 144);
     font-weight: bold;
 
 }
