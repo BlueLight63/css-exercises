@@ -1,1 +1,15 @@
-/* Add CSS Styling */
+.click,
+.click_n{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif; 
+
+}
+
+.click{
+    background-color: black;
+    color: white;
+}
+
+.click_n{
+    background-color: yellow;
+}
